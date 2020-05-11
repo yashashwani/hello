@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[3]:
 
 
 numbers = [12,-7,5,64,-14]
